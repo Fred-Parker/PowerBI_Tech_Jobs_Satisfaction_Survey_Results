@@ -12,7 +12,7 @@ My objective during this project was to create an **interactive and intuitive Po
 
 <hr>
 <h2 id="dataset description">Dataset Description</h2>
-<li> The dataset includes 630 survey participants, covering job titles, salary brackets, industries, preferred programming languages, countries, education levels, and ratings (0-10) on work-life balance, career growth, management, and more.
+<li> The dataset includes 630 survey participants, covering job titles, salary brackets, industries, preferred programming languages, countries, education levels, and ratings (0-10) on work-life balance, career growth, management, and more.</li>
   
 <li>Data Source: AlexTheAnalyst GitHub: 
   
