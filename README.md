@@ -1,6 +1,6 @@
 # Tech Jobs Satisfaction Survey Results - (PowerBI) Dashboard & Analysis
 
-My objective during this project was to create an **interactive and intuitive dashboard** that highlighted key findings and insights from a Tech Job Satisfaction survey conducted across various tech job fields and careers.
+My objective during this project was to create an **interactive and intuitive PowerBI dashboard** that highlighted key findings and insights from a Tech Job Satisfaction survey conducted across various tech job fields and careers.
 
 <ul>
   <li><a href="#dashboard screenshot">Dashboard Screenshot</a></li>
